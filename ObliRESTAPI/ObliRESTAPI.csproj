@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Car Unit Test">
+      <HintPath>..\..\Car Unit Test\Car Unit Test\bin\Debug\net6.0\Car Unit Test.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
